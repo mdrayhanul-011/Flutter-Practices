@@ -15,9 +15,7 @@ class MyApp extends StatelessWidget {
         ),
         body: Center(
           child: Text(
-            'Flutter, an open-source framework by Google, '
-                'allows developers to build natively compiled applications '
-                'for mobile, web, and desktop from a single codebase.',
+            'Flutter, an open-source framework by Google, ',
             textAlign: TextAlign.justify,
             maxLines: 5,
             style: TextStyle(
